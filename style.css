@@ -4,3 +4,8 @@
     margin-right: auto;
     width: 50%;
 }
+
+.right {
+    text-align:right;
+    font-size: 8px;
+}
