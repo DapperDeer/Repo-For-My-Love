@@ -5,6 +5,14 @@
     width: 50%;
 }
 
+.centerAndPointer {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    cursor: pointer;
+}
+
 .right {
     text-align:right;
     font-size: 8px;
