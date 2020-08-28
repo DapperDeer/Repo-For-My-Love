@@ -1,5 +1,5 @@
 function GenerateRandomPetie() {
-	var rng = getRandomIntInclusive(1, 15);
+	var rng = getRandomIntInclusive(1, 16);
 	var path = document.getElementById("petie");
 	path.src = "../images/dog" + rng + ".jpg";	
 }
